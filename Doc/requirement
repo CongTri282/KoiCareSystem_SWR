@@ -1,0 +1,8 @@
+Functional Requirements
+
+1. User Authentication:
+   - Users should be able to create an account and log in.
+   - Users should be able to log out.
+   - Users should be able to reset their password.
+
+2. User Management:
